@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/samir/Desktop/Snowplow-schema-validation/api/src/main/resources/config-no-match.json,/home/samir/Desktop/Snowplow-schema-validation/api/target/scala-2.13/classes/config-no-match.json)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/samir/Desktop/Snowplow-schema-validation/api/src/main/resources/config-schema-invalid.json,/home/samir/Desktop/Snowplow-schema-validation/api/target/scala-2.13/classes/config-schema-invalid.json)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/samir/Desktop/Snowplow-schema-validation/api/src/main/resources/readme.md,/home/samir/Desktop/Snowplow-schema-validation/api/target/scala-2.13/classes/readme.md)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/samir/Desktop/Snowplow-schema-validation/api/src/main/resources/config.json,/home/samir/Desktop/Snowplow-schema-validation/api/target/scala-2.13/classes/config.json)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/samir/Desktop/Snowplow-schema-validation/api/src/main/resources/logback.xml,/home/samir/Desktop/Snowplow-schema-validation/api/target/scala-2.13/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/samir/Desktop/Snowplow-schema-validation/api/src/main/resources/application.conf,/home/samir/Desktop/Snowplow-schema-validation/api/target/scala-2.13/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/samir/Desktop/Snowplow-schema-validation/api/src/main/resources/config-schema.json,/home/samir/Desktop/Snowplow-schema-validation/api/target/scala-2.13/classes/config-schema.json)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/samir/Desktop/Snowplow-schema-validation/api/src/main/resources/db/migration/V1__create_json_schema.sql,/home/samir/Desktop/Snowplow-schema-validation/api/target/scala-2.13/classes/db/migration/V1__create_json_schema.sql)[0m

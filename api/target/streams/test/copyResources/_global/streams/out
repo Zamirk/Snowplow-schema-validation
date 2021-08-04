@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/samir/Desktop/Snowplow-schema-validation/api/src/test/resources/config-no-match.json,/home/samir/Desktop/Snowplow-schema-validation/api/target/scala-2.13/test-classes/config-no-match.json)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/samir/Desktop/Snowplow-schema-validation/api/src/test/resources/config-schema-invalid.json,/home/samir/Desktop/Snowplow-schema-validation/api/target/scala-2.13/test-classes/config-schema-invalid.json)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/samir/Desktop/Snowplow-schema-validation/api/src/test/resources/config.json,/home/samir/Desktop/Snowplow-schema-validation/api/target/scala-2.13/test-classes/config.json)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/samir/Desktop/Snowplow-schema-validation/api/src/test/resources/config-schema.json,/home/samir/Desktop/Snowplow-schema-validation/api/target/scala-2.13/test-classes/config-schema.json)[0m

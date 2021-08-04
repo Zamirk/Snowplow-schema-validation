@@ -1,0 +1,52 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/samir/Desktop/Snowplow-schema-validation/api/target/scala-2.13/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SchemaValidateEndpoint$$anonfun$routes$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DatabaseModels$JsonSchema.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Helpers$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	JsonSchemaReal.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ConfigModels$DatabaseConfig$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DatabaseModels$JsonSchema$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$anon$exportedReader$macro$76$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DatabaseConnection$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SchemaProcessingEndpoint.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SchemaProcessingEndpoint$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$anon$exportedReader$macro$76$1$anon$macro$69$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Helpers.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DatabaseModels$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SchemaProcessingEndpoint$$anonfun$routes$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ConfigModels$Config$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HttpResponces$SchemaResult.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ConfigModels$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ConfigModels$Config.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HTTPServer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HTTPServer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	JsonSchemaReal$anon$generic$macro$13$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$anon$exportedReader$macro$76$1$anon$macro$31$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$anon$exportedReader$macro$76$1$anon$macro$34$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	JsonSchemaAlg.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SchemaValidateEndpoint$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	JsonSchemaReal$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DatabaseConnection.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ConfigModels$ServerConfig.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HttpResponces.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$anon$exportedReader$macro$76$1$anon$macro$13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	JsonSchemaReal$anon$macro$8$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ConfigModels$DatabaseConfig.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$anon$exportedReader$macro$76$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HttpResponces$SchemaResult$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ConfigModels.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$anon$exportedReader$macro$76$1$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$anon$exportedReader$macro$76$1$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SchemaValidateEndpoint.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	JsonSchemaReal$anon$macro$8$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ConfigModels$ServerConfig$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DatabaseModels.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$anon$exportedReader$macro$76$1$anon$macro$16$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	JsonSchemaReal$anon$generic$macro$13$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$anon$exportedReader$macro$76$1$anon$macro$64$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HttpResponces$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/samir/Desktop/Snowplow-schema-validation/api/target/scala-2.13/classes.bak[0m

@@ -24,6 +24,7 @@ import play.api.libs.json.Json._
 import snowplow.models.HttpResponces._
 import snowplow.models.DatabaseModels._
 import play.api.libs.json.Json
+import snowplow.algebras.JsonSchemaAlg
 import snowplow.database.JsonSchemaReal
 
 import scala.concurrent.ExecutionContext.global
@@ -33,7 +34,7 @@ object HTTPServer {
   def createBlazeServer[F[_]: Async](
       config: Config,
       logger: SelfAwareStructuredLogger[F],
-      repository: JsonSchemaReal[F]
+      repository: JsonSchemaAlg[F]
   ): Resource[F, Server] = {
     BlazeServerBuilder[F](global)
       .bindHttp(config.server.port, config.server.host)

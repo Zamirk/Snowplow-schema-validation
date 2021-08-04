@@ -16,7 +16,7 @@ ThisBuild / publish / skip := true
 
 lazy val root = (project in file("."))
   .settings(
-//    name := "snowplow-schema-validation"
+    name := "snowplow-schema-validation"
   )
   .aggregate(api)
 

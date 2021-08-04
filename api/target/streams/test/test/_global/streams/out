@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(specs.SchemaValidateEndpointSpec, org.scalatest.tools.Framework$$anon$1@2505f34e, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(specs.SchemaProcessingEndpointSpec, org.scalatest.tools.Framework$$anon$1@2505f34e, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSchemaProcessingEndpointSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCalling on /Schema/Id [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  with a POST request [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - with a valid shema should return a 201 status[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - with a valid schema should return json response[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - with an invalid schema should return not found status code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  with a GET request [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - with a valid schema id should return an Ok status[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - with a valid schema id should return json response of the data[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - with an invalid schema id should return not found status code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSchemaValidateEndpointSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCalling on /Schema/Id [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  with a POST request [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - with an invalid document schema should return a bad request status code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - with a valid document schema should return a 200 status code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - with a valid Json document but a missing schema should should return a Not found status code[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - with a valid Json document that is invalid against the stored schema, should return a Json error[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 1 second, 707 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 10[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 2, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 10, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	specs.SchemaValidateEndpointSpec[0m
+[0m[[0m[0mdebug[0m] [0m[0m	specs.SchemaProcessingEndpointSpec[0m
