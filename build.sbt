@@ -3,7 +3,7 @@ ThisBuild / version := "0.1"
 ThisBuild / scalaVersion := "2.13.5"
 
 ThisBuild / scalacOptions ++= Seq(
-  "-Xfatal-warnings",
+//  "-Xfatal-warnings",
   "-feature",
   "-deprecation",
   "-language:higherKinds",
@@ -16,12 +16,11 @@ ThisBuild / publish / skip := true
 
 lazy val root = (project in file("."))
   .settings(
-    name := "snowplow-schema-validation"
+//    name := "snowplow-schema-validation"
   )
   .aggregate(api)
 
 lazy val api = (project in file("api"))
   .settings(
-    fork in run := true,
     libraryDependencies ++= allLibs.toList
   )
