@@ -29,17 +29,7 @@ case class SchemaProcessingEndpoint[F[_]: Sync](
         for {
           requestBody <- EntityDecoder.decodeText(req)
           result <- validateJson(requestBody) match {
-            case None => {
-              println("ay " + requestBody)
-              println("ay " + requestBody)
-              println("ay " + requestBody)
-              println("ay " + requestBody)
-              println("ay " + requestBody)
-              println("ay " + requestBody)
-              println("ay " + requestBody)
-
-              badRequest(path)
-            }
+            case None    => badRequest(path)
             case Some(x) => processJson(path, x)
           }
         } yield result

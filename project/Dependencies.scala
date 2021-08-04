@@ -8,24 +8,13 @@ object Dependencies {
     lazy val doobie        = "1.0.0-M2"  //Database interaction
     lazy val Http4sVersion = "1.0.0-M23" //Need this version for CE 3.0
 
-    val ce         = "3.1.0"
     val cats       = "2.6.0"
     val pureconfig = "0.15.0" //Used for reading config
 
-    val scalaTest     = "3.1.1"
-    val scalatestplus = "3.1.1.1"
-    val fs2           = "2.5.9"
-    val log4Cats      = "2.1.0"
+    val scalaTest = "3.1.1"
+    val log4Cats  = "2.1.0"
 
-    val Specs2Version         = "4.10.5"
-    val pureconfigVersion     = "0.14.0"
-    val fs2Data               = "0.9.0"
-    val doobieVersion         = "0.9.0"
-    val log4cats              = "1.1.1"
-    lazy val H2Version        = "1.4.200"
-    lazy val FlywayVersion    = "7.5.2"
-    lazy val CirceVersion     = "0.13.0"
-    lazy val LogbackVersion   = "1.2.3"
+    lazy val FlywayVersion    = "7.5.2" //DB Migration
     lazy val ScalaTestVersion = "3.2.3"
     lazy val ScalaMockVersion = "5.1.0"
   }
