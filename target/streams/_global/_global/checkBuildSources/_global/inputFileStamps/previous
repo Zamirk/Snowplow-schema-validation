@@ -1,1 +1,1 @@
-["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/home/samir/Desktop/Snowplow-schema-validation/build.sbt","08910d6d246bff238b369496aae586a8aa3a8612"]],"lastModifiedTimes":[]}]
+["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/home/samir/Desktop/Snowplow-schema-validation/build.sbt","dec3ab0df71b9c13c2d3a6a9377b4f7374da8da4"],["/home/samir/Desktop/Snowplow-schema-validation/project/Dependencies.scala","a928aac00042896b81ea833733ec88fc4d6c1550"]],"lastModifiedTimes":[]}]

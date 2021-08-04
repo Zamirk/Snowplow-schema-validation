@@ -1,1 +1,1 @@
-["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.10":{"hashes":[],"lastModifiedTimes":[]}}]
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.10":{"hashes":[["/home/samir/Desktop/Snowplow-schema-validation/project/Dependencies.scala","a928aac00042896b81ea833733ec88fc4d6c1550"]],"lastModifiedTimes":[]}}]

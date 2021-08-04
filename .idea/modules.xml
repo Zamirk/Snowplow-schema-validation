@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Snowplow-schema-validation.iml" filepath="$PROJECT_DIR$/.idea/modules/Snowplow-schema-validation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Snowplow-schema-validation-build.iml" filepath="$PROJECT_DIR$/.idea/modules/Snowplow-schema-validation-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api.iml" filepath="$PROJECT_DIR$/.idea/modules/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/snowplow-schema-validation.iml" filepath="$PROJECT_DIR$/.idea/modules/snowplow-schema-validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/snowplow-schema-validation-build.iml" filepath="$PROJECT_DIR$/.idea/modules/snowplow-schema-validation-build.iml" />
     </modules>
   </component>
 </project>

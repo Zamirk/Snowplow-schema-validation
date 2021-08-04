@@ -2,5 +2,14 @@
 <project version="4">
   <component name="ScalaCompilerConfiguration">
     <profile name="sbt 1" modules="Snowplow-schema-validation" />
+    <profile name="sbt 2" modules="api,snowplow-schema-validation">
+      <option name="higherKinds" value="true" />
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <option name="featureWarnings" value="true" />
+      <parameters>
+        <parameter value="-Xfatal-warnings" />
+      </parameters>
+    </profile>
   </component>
 </project>

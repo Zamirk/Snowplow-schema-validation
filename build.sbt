@@ -1,5 +1,27 @@
-name := "Snowplow-schema-validation"
+ThisBuild / version := "0.1"
 
-version := "0.1"
+ThisBuild / scalaVersion := "2.13.5"
 
-scalaVersion := "2.13.6"
+ThisBuild / scalacOptions ++= Seq(
+  "-Xfatal-warnings",
+  "-feature",
+  "-deprecation",
+  "-language:higherKinds",
+  "-unchecked"
+)
+
+import Dependencies._
+
+ThisBuild / publish / skip := true
+
+lazy val root = (project in file("."))
+  .settings(
+    name := "snowplow-schema-validation"
+  )
+  .aggregate(api)
+
+lazy val api = (project in file("api"))
+  .settings(
+    fork in run := true,
+    libraryDependencies ++= allLibs.toList
+  )
